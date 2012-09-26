@@ -1,0 +1,9 @@
+Brag Sheet 
+Kevin Aziz
+HW1-CIS425/625
+
+The elephant uses several cylinders which I made using a GL_TRIANGLE_FAN
+The elephant's is a cone using GL_TRIANGLE_STRIP
+The bird uses Vertex and (random) color arrays for the wings
+I made my sphere, cylinder, cone, bird and elephant functions parameterized (I was going to make every click produce a little elephant but I didn't have time)
+
